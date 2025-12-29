@@ -4,7 +4,7 @@
 
 ### *La terminal que siempre soñaste tener*
   
-[![GitHub Stars](https://img.shields.io/github/stars/Zaenily-LinganBerry/Tsukiyomi-Fetch?style=for-the-badge&logo=github)](https://github.com/Zaenily-LinganBerry/Tsukiyomi-Fetch/stargazers)
+[![GitHub Stars](https://img.shields.io/github/stars/Zaenlly-LinganBerry/Tsukiyomi-Fetch?style=for-the-badge&logo=github)](https://github.com/Zaenlly-LinganBerry/Tsukiyomi-Fetch/stargazers)
 [![License: MIT](https://img.shields.io/badge/License-MIT-red?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![ZSH](https://img.shields.io/badge/Shell-ZSH-green?style=for-the-badge&logo=gnu-bash)](https://www.zsh.org/)
 [![FastFetch](https://img.shields.io/badge/Powered%20by-FastFetch-orange?style=for-the-badge)](https://github.com/fastfetch-cli/fastfetch)
