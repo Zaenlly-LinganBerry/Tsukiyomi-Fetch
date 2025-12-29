@@ -54,7 +54,8 @@ source ~/.zshrc
 
 🖼️ ¿CÓMO AÑADIR TUS IMÁGENES?
 
-    Descarga imágenes PNG (con fondo transparente se ven mejor)
+# 1. Descarga imágenes PNG (con fondo transparente se ven mejor)
 
-    Colócalas en esta carpeta:
-~/Tsukiyomi-Fetch/fastfetch/pngs/
+# 2. Colócalas en esta carpeta:  ~/Tsukiyomi-Fetch/fastfetch/pngs/
+
+# 3. ¡Listo! La próxima terminal mostrará una imagen aleatoria
