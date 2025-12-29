@@ -1,9 +1,9 @@
-**🌙 Tsukiyomi Fetch
+##🌙 Tsukiyomi Fetch
 
 Una configuración elegante de ZSH con FastFetch responsive que muestra tus imágenes favoritas
 
 
-*✨ Características
+#✨ Características
 
 Característica	 Descripción
 *🖼️ Fetch con Anime	Muestra una imagen anime aleatoria cada vez que abres la terminal
@@ -14,7 +14,7 @@ Característica	 Descripción
 *🔧 Comandos Útiles	Aliases y funciones que ahorran tiempo
 *🚀 Instalación Rápida
 
-**Método 1: Clonar y Ejecutar (Recomendado)
+##Método 1: Clonar y Ejecutar (Recomendado)
 bash
 
 # Clona el repositorio
