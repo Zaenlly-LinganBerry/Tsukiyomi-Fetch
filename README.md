@@ -34,30 +34,10 @@
 ### **Opción 1: Instalador Automático (RECOMENDADO)**
 ```bash
 # 1. Clona el repositorio
-git clone https://github.com/Zaenily-LinganBerry/Tsukiyomi-Fetch.git
+git clone https://github.com/Zaenlly-LinganBerry/Tsukiyomi-Fetch.git
 
 # 2. Entra en la carpeta
 cd Tsukiyomi-Fetch
 
 # 3. Ejecuta el instalador
 chmod +x install.sh && ./install.sh
-
-Opción 2: Instalación Manual
-# 1. Copia la configuración
-cp .zshrc ~/.zshrc
-
-# 2. Crea la carpeta para imágenes
-mkdir -p ~/Tsukiyomi-Fetch/fastfetch/pngs
-
-# 3. Recarga tu terminal
-source ~/.zshrc
-
-🖼️ ¿CÓMO AÑADIR TUS IMÁGENES?
-
-# 1. Descarga imágenes PNG (con fondo transparente se ven mejor)
-
-# 2. Colócalas en esta carpeta:
-
-~/Tsukiyomi-Fetch/fastfetch/pngs/
-
-# 3. ¡Listo! La próxima terminal mostrará una imagen aleatoria
