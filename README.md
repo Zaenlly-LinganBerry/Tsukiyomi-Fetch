@@ -1,22 +1,20 @@
-🌙 Tsukiyomi Fetch
+**🌙 Tsukiyomi Fetch
 
 Una configuración elegante de ZSH con FastFetch responsive que muestra tus imágenes favoritas
 
-https://img.shields.io/badge/GitHub-Repository-blue?style=flat&logo=github
-https://img.shields.io/badge/License-MIT-yellow.svg
-https://img.shields.io/badge/Shell-ZSH-green?style=flat&logo=gnu-bash
-https://img.shields.io/badge/Requires-FastFetch-orange
 
-✨ Características
-Característica	Descripción
-🖼️ Fetch con Anime	Muestra una imagen anime aleatoria cada vez que abres la terminal
-📱 Responsivo	Se adapta automáticamente al tamaño de tu ventana (grande, mediana, pequeña)
-⚡ Ultra Rápido	Optimizado para cero lag (DISABLE_MAGIC_FUNCTIONS=true)
-💾 Backups Inteligentes	Guarda automáticamente copias de tu .zshrc al editarlo
-🎨 Personalizable	Fácil de modificar y extender a tu gusto
-🔧 Comandos Útiles	Aliases y funciones que ahorran tiempo
-🚀 Instalación Rápida
-Método 1: Clonar y Ejecutar (Recomendado)
+*✨ Características
+
+Característica	 Descripción
+*🖼️ Fetch con Anime	Muestra una imagen anime aleatoria cada vez que abres la terminal
+*📱 Responsivo	Se adapta automáticamente al tamaño de tu ventana (grande, mediana, pequeña)
+*⚡ Ultra Rápido	Optimizado para cero lag (DISABLE_MAGIC_FUNCTIONS=true)
+*💾 Backups Inteligentes	Guarda automáticamente copias de tu .zshrc al editarlo
+*🎨 Personalizable	Fácil de modificar y extender a tu gusto
+*🔧 Comandos Útiles	Aliases y funciones que ahorran tiempo
+*🚀 Instalación Rápida
+
+**Método 1: Clonar y Ejecutar (Recomendado)
 bash
 
 # Clona el repositorio
