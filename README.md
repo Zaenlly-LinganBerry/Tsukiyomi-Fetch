@@ -41,3 +41,20 @@ cd Tsukiyomi-Fetch
 
 # 3. Ejecuta el instalador
 chmod +x install.sh && ./install.sh
+
+Opción 2: Instalación Manual
+# 1. Copia la configuración
+cp .zshrc ~/.zshrc
+
+# 2. Crea la carpeta para imágenes
+mkdir -p ~/Tsukiyomi-Fetch/fastfetch/pngs
+
+# 3. Recarga tu terminal
+source ~/.zshrc
+
+🖼️ ¿CÓMO AÑADIR TUS IMÁGENES?
+
+    Descarga imágenes PNG (con fondo transparente se ven mejor)
+
+    Colócalas en esta carpeta:
+~/Tsukiyomi-Fetch/fastfetch/pngs/
